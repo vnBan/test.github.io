@@ -1,0 +1,152 @@
+.header{
+	background-image: url("https://e1.pxfuel.com/desktop-wallpaper/655/366/desktop-wallpaper-green-forest-aesthetic-pc-forest.jpg");
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 20px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px;
+	border-bottom: 10px solid white;
+}
+
+.headerP
+{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNugArtr3ktQ0_yFKsHVV_c4dx_03B9MkXzCzn_Tpq6FOgCYV86mDQ3PA0BDpa5bqRvc&usqp=CAU");
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 20px;
+	color: #007f5f;
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+.headerE
+{
+	background-image: url("https://scontent.fmnl25-4.fna.fbcdn.net/v/t1.15752-9/379656439_1095538328480074_1097310209041207149_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEmvXKR9EJjOH9gLZZL9f0fGe-yqNMMSvQZ77Ko0wxK9Bj-JotWnF_RFdkoL36LxX8M1YBAwIvxO11vgdWst9gX&_nc_ohc=-_8O3_Xtg-sAX_MR0B3&_nc_ht=scontent.fmnl25-4.fna&oh=03_AdTaYEobI4QRCWO3r33IQC7ef3WhKxYjeEjmgfaksxVulg&oe=653BA3FC");
+	padding: 20px;
+	color: #fff1e6;
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.headerH
+{
+	background-color: #FFFFFF;
+	padding: 20px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.headerh
+{
+	background-color: #FFFFFF;
+	color: black;
+}
+
+.headers
+{
+    background-color: #6acec9;
+}
+
+.headerS
+{
+	background-color: #6acec9;
+	padding: 20px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.headerF
+{
+	background-image: url("https://scontent-mnl1-2.xx.fbcdn.net/v/t1.15752-9/382246156_2459350724246499_3390090685691828380_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGliUDa-akdK0FfEht7GSy3H0itPjfbENEfSK0-N9sQ0VLYj1iFF7uD3t4VFYxMuF9Y4vAKA75att7ULZ1tr3qI&_nc_ohc=yzOqm3sS5V4AX-alodt&_nc_ht=scontent-mnl1-2.xx&oh=03_AdQ91_W9gchF5Um8EwkztGkDfHSWfFMZ76iIvt2bLp18Ng&oe=653E56A5");
+	padding: 20px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.headerA
+{
+	background-image: url("https://scontent-mnl1-2.xx.fbcdn.net/v/t1.15752-9/382246555_1578373652570530_3752308592817058057_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEZgaGRLb28Rw1sQujI2tdzyqmzzquWfTvKqbPOq5Z9OzNTMPg0ev15rre9CrOi2PJWDzsUHQb1zleyuLJ2aZhD&_nc_ohc=nwJOTFYh7Z0AX_hukYT&_nc_ht=scontent-mnl1-2.xx&oh=03_AdQFZ75_7dmzjcBnbrWdi6hoZuOXXgn8-dIvXmD6to-eOw&oe=653E42E5");
+	padding: 20px;
+	color: black;
+	font-weight: bolder;
+	font-size: 50px;
+	font-family: sans-serif;
+
+}
+
+.Personal{
+	background-color: #007f5f;
+	padding: 20px;
+	color: #ffe5d9;
+	font-family: arial;
+	font-size: 20px;
+	border-bottom: 10px solid white;
+}
+
+.Education{
+	background-color: #fff1e6;
+	padding: 20px;
+	color: black;
+	font-size: 20px;
+	border-bottom: 10px solid white;
+}
+
+.Hobbies{
+	background-image: url("https://scontent-mnl1-2.xx.fbcdn.net/v/t1.15752-9/379675969_655909396672214_6752591056266632668_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGtAc82LTC0u7hj_0Td4W2r_yjOxdsN8er_KM7F2w3x6jZdsmOgsftEHWNgGyM3EBY8R2f33d-jnZnp9FpFDHhw&_nc_ohc=HB6UZ_rC3qAAX9mYnv6&_nc_ht=scontent-mnl1-2.xx&oh=03_AdS2XmHdN2pyQ2TbE3WyIfylYKuyVLY7rWCaSgc9Suthlg&oe=653E238D");
+	margin-right: 410px;
+	margin-bottom: 363px;
+	padding: 20px;
+	color: #d0ccc9;
+	font-size: 19.9px;
+	border-bottom: 10px solid white;
+	border-right: 5px solid white;
+}
+
+
+.Skills{
+    background-image: url("https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-1536x1024.jpg");
+	margin-top: -1290px;
+	margin-left: 790px;
+	padding: 20px;
+	color: #6acec9;
+	font-size: 18.7px;
+	border-bottom: 10px solid white;
+	border-left: 5px solid white;
+}
+
+.Favorites{
+	background-color: #a5a58d;
+	margin-right: 580px;
+	padding: 20px;
+	color: black;
+	font-size: 20px;
+	border-bottom: 10px solid white;
+}
+
+.Ambitions{
+	background-color: #b7b7a4;
+	margin-top: -323px;
+	margin-left: 630px;
+	padding: 20px;
+	color: black;
+	font-size: 20px;
+	border-bottom: 10px solid white;
+}
+
+.Copyright
+{
+	background-image: url("https://scontent.fmnl25-3.fna.fbcdn.net/v/t1.15752-9/379666370_2398689010314006_2300831047589080592_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGTQO7CMKOIDiupcjKnXTuVKr7871AUKycqvvzvUBQrJ-q0ZuSGqrAJsPuZ7WslVDQOw1peIuJ6rZ_kirsGvx6s&_nc_ohc=2fjdQ0dcddIAX-8LCHL&_nc_ht=scontent.fmnl25-3.fna&oh=03_AdRoVix05aeZy4SESSbescYJTNJdDi-P303nvqqRci_2TQ&oe=653E3D5B");
+	padding: 10px;
+	color: black;
+	font-size: 12px;
+}
